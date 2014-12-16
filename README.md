@@ -1,6 +1,6 @@
 Indians In Data Viz
 ===================
-An attempt to compile a directory of Indians working in the world of **data visualization**.
+An attempt to create a directory of Indians working in the world of **data visualization**.
 
 Curated by [@rasagy] (https://twitter.com/rasagy) & [@kenneth] (https://twitter.com/kenneth).
 
@@ -8,32 +8,32 @@ Here's [how to contribute](#instructions-for-contributing).
 
 ---------
 
-##DataViz
+###DataViz
 + [S. Anand] (https://twitter.com/sanand0) ([Gramener] (https://gramener.com/))
 + [Amit Kapoor] (https://twitter.com/amitkaps)
 + [Ritvvij Parrikh] (https://twitter.com/ritvvijparrikh) ([Pykih] (http://www.pykih.com/))
 
-##GeoViz
+###GeoViz
 + [Arun Ganesh] (https://en.wikipedia.org/wiki/User:Planemad) aka Planemad
 + [Sajjad Anwar] (https://geohacker.in/) aka Geohacker
 
-##OpenData
+###OpenData
 + [Thejesh GN] (https://thejeshgn.com/)
 + [Nisha Thompson] (https://twitter.com/fakenisha)
 + [Sumandro Chattapadhyay] (https://twitter.com/ajantriks) aka Ajantriks
 + [Kaustubh Srikanth] (https://twitter.com/houndbee) ([Tactical Tech] (https://www.tacticaltech.org/))
 
-##DataJournalism
+###DataJournalism
 + [Avinash Celestine] (http://datastories.in)
 
-##DataArt
+###DataArt
 _(none as of now)_
 
 Instructions for contributing:
 ------------------------------
 ####What to contribute:
 * Add a name with a link to their work under a category.
-* If you feel that there are not enough categories, then feel free to start one.
+* If you feel that there are not enough categories, then [feel free to suggest one](https://github.com/rasagy/IndiansInDataViz/issues/3).
 
 ####How to contribute:
 * If you're comfortable with Git, submit a pull request
