@@ -8,26 +8,29 @@ Here's [how to contribute](#instructions-for-contributing).
 
 ---------
 
-###DataViz
-+ [S. Anand] (https://twitter.com/sanand0) ([Gramener] (https://gramener.com/))
-+ [Amit Kapoor] (https://twitter.com/amitkaps)
-+ [Ritvvij Parrikh] (https://twitter.com/ritvvijparrikh) ([Pykih] (http://www.pykih.com/))
+###Data Visualization
++ [S. Anand] (https://twitter.com/sanand0) (Chief Data Scientist at [Gramener] (https://gramener.com/)). [Personal site] (http://www.s-anand.net/).
++ [Amit Kapoor] (https://twitter.com/amitkaps) (Runs [NarrativeViz] (http://narrativeviz.com/)). [Personal site] (http://amitkaps.com/).
++ [Ritvvij Parrikh] (https://twitter.com/ritvvijparrikh) (Founder of [Pykih] (http://www.pykih.com/)).
++ [Amit Das] (https://twitter.com/Godgeez) (Designs at UrbanClap, earlier at Housing/FusionCharts/Fab).
 
-###GeoViz
-+ [Arun Ganesh] (https://en.wikipedia.org/wiki/User:Planemad) aka Planemad
-+ [Sajjad Anwar] (https://geohacker.in/) aka Geohacker
+###Geo Visualization
++ [Arun Ganesh] (https://twitter.com/planemad) (Works at [Mapbox] (http://mapbox.com/)). [Wikipedia User page] (https://en.wikipedia.org/wiki/User:Planemad).
++ [Sajjad Anwar] (https://twitter.com/geohacker) (Works at [Mapbox] (http://mapbox.com/), and runs [GeoBlr] (http://geoblr.in/)).
 
-###OpenData
-+ [Thejesh GN] (https://thejeshgn.com/)
-+ [Nisha Thompson] (https://twitter.com/fakenisha)
-+ [Sumandro Chattapadhyay] (https://twitter.com/ajantriks) aka Ajantriks
-+ [Kaustubh Srikanth] (https://twitter.com/houndbee) ([Tactical Tech] (https://www.tacticaltech.org/))
+###Open Data
++ [Thejesh GN] (https://twitter.com/thej) (Co-founder of [Datameet] (http://datameet.org/)). [Personal site] (https://thejeshgn.com/).
++ [Nisha Thompson] (https://twitter.com/fakenisha) (Co-founder of [Datameet] (http://datameet.org/)).
++ [Sumandro Chattapadhyay] (https://twitter.com/ajantriks). [Personal site] (http://ajantriks.net/).
++ [Kaustubh Srikanth] (https://twitter.com/houndbee) (Head of Tech at [Tactical Tech] (https://www.tacticaltech.org/)).
++ [Gaurav Godhwani] (https://twitter.com/gggodhwani) (Works at [CBGA] (http://www.cbgaindia.org/), part of [DataKindBlr] (http://www.datakind.org/chapters/datakind-blr)).
++ [Srinivas Kodali] (https://twitter.com/iotakodali) (Works on Transport Data at [Datameet] (http://datameet.org/)). [Personal site] (http://www.lostprogrammer.com/).
 
-###DataJournalism
-+ [Avinash Celestine] (http://datastories.in)
+###Data Journalism
++ [Avinash Celestine] (https://twitter.com/ac_soc) (Writes at [How India Lives] (http://howindialives.com/)). [Personal blog] (http://datastories.in).
 
-###DataArt
-_(none as of now)_
+###Data Art
+_Know anyone?_
 
 Instructions for contributing:
 ------------------------------
